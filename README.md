@@ -1,1 +1,1 @@
-# strat-ai
+# Projet LLM Strat-ai

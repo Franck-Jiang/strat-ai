@@ -1,0 +1,3287 @@
+[
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Splendor"
+    },
+    {
+        "instruction": "Quel jeu de Gestion de ressources pour 3 joueurs ?",
+        "input": "",
+        "output": "Splendor"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Splendor"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Princes de Florence"
+    },
+    {
+        "instruction": "Quel jeu de Placement pour 3 joueurs ?",
+        "input": "",
+        "output": "Princes de Florence"
+    },
+    {
+        "instruction": "Quel jeu de Placement pour 5 joueurs ?",
+        "input": "",
+        "output": "Princes de Florence"
+    },
+    {
+        "instruction": "Quel jeu de Pose de tuiles pour 2 joueurs ?",
+        "input": "",
+        "output": "Taluva"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Taluva"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Taluva"
+    },
+    {
+        "instruction": "Quel jeu de Course pour 6 joueurs ?",
+        "input": "",
+        "output": "Ave Caesar"
+    },
+    {
+        "instruction": "Quel jeu de Course pour 4 joueurs ?",
+        "input": "",
+        "output": "Ave Caesar"
+    },
+    {
+        "instruction": "Quel jeu de Course pour 5 joueurs ?",
+        "input": "",
+        "output": "Ave Caesar"
+    },
+    {
+        "instruction": "Quel jeu de Pose de tuiles pour 3 joueurs ?",
+        "input": "",
+        "output": "Metroplys"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Metroplys"
+    },
+    {
+        "instruction": "Quel jeu de Pose de tuiles pour 2 joueurs ?",
+        "input": "",
+        "output": "Metroplys"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Majesty"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 3 joueurs ?",
+        "input": "",
+        "output": "Majesty"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 4 joueurs ?",
+        "input": "",
+        "output": "Majesty"
+    },
+    {
+        "instruction": "Quel jeu de Abstrait pour 2 joueurs ?",
+        "input": "",
+        "output": "Azul"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Azul"
+    },
+    {
+        "instruction": "Quel jeu de Abstrait pour 3 joueurs ?",
+        "input": "",
+        "output": "Azul"
+    },
+    {
+        "instruction": "Quel jeu de Dés pour 2 joueurs ?",
+        "input": "",
+        "output": "King of New York"
+    },
+    {
+        "instruction": "Quel jeu de Affrontement pour 6 joueurs ?",
+        "input": "",
+        "output": "King of New York"
+    },
+    {
+        "instruction": "Quel jeu de Dés pour 3 joueurs ?",
+        "input": "",
+        "output": "King of New York"
+    },
+    {
+        "instruction": "Quel jeu de Abstrait pour 2 joueurs ?",
+        "input": "",
+        "output": "Abalone"
+    },
+    {
+        "instruction": "Quel jeu de Abstrait pour 2 joueurs ?",
+        "input": "",
+        "output": "Abalone"
+    },
+    {
+        "instruction": "Quel jeu de Abstrait pour 2 joueurs ?",
+        "input": "",
+        "output": "Abalone"
+    },
+    {
+        "instruction": "Quel jeu de Puzzle pour 2 joueurs ?",
+        "input": "",
+        "output": "Cubulus"
+    },
+    {
+        "instruction": "Quel jeu de Abstrait pour 2 joueurs ?",
+        "input": "",
+        "output": "Cubulus"
+    },
+    {
+        "instruction": "Quel jeu de Puzzle pour 2 joueurs ?",
+        "input": "",
+        "output": "Cubulus"
+    },
+    {
+        "instruction": "Quel jeu de Enquête pour 6 joueurs ?",
+        "input": "",
+        "output": "Petits meurtres"
+    },
+    {
+        "instruction": "Quel jeu de Rôles cachés pour 5 joueurs ?",
+        "input": "",
+        "output": "Petits meurtres"
+    },
+    {
+        "instruction": "Quel jeu de Enquête pour 4 joueurs ?",
+        "input": "",
+        "output": "Petits meurtres"
+    },
+    {
+        "instruction": "Quel jeu de Jeu d’ambiance pour 7 joueurs ?",
+        "input": "",
+        "output": "Concept"
+    },
+    {
+        "instruction": "Quel jeu de Déduction pour 6 joueurs ?",
+        "input": "",
+        "output": "Concept"
+    },
+    {
+        "instruction": "Quel jeu de Déduction pour 3 joueurs ?",
+        "input": "",
+        "output": "Concept"
+    },
+    {
+        "instruction": "Quel jeu de Créativité pour 8 joueurs ?",
+        "input": "",
+        "output": "Dixit"
+    },
+    {
+        "instruction": "Quel jeu de Ambiance pour 5 joueurs ?",
+        "input": "",
+        "output": "Dixit"
+    },
+    {
+        "instruction": "Quel jeu de Créativité pour 4 joueurs ?",
+        "input": "",
+        "output": "Dixit"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Takenoko"
+    },
+    {
+        "instruction": "Quel jeu de Gestion pour 3 joueurs ?",
+        "input": "",
+        "output": "Takenoko"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Takenoko"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 5 joueurs ?",
+        "input": "",
+        "output": "Kemet"
+    },
+    {
+        "instruction": "Quel jeu de Affrontement pour 2 joueurs ?",
+        "input": "",
+        "output": "Kemet"
+    },
+    {
+        "instruction": "Quel jeu de Affrontement pour 3 joueurs ?",
+        "input": "",
+        "output": "Kemet"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Immortal 8"
+    },
+    {
+        "instruction": "Quel jeu de Draft pour 6 joueurs ?",
+        "input": "",
+        "output": "Immortal 8"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Immortal 8"
+    },
+    {
+        "instruction": "Quel jeu de Aventure pour 3 joueurs ?",
+        "input": "",
+        "output": "Talisman"
+    },
+    {
+        "instruction": "Quel jeu de Plateau pour 2 joueurs ?",
+        "input": "",
+        "output": "Talisman"
+    },
+    {
+        "instruction": "Quel jeu de Aventure pour 4 joueurs ?",
+        "input": "",
+        "output": "Talisman"
+    },
+    {
+        "instruction": "Quel jeu de Rôles cachés pour 3 joueurs ?",
+        "input": "",
+        "output": "London 1888"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 4 joueurs ?",
+        "input": "",
+        "output": "London 1888"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 2 joueurs ?",
+        "input": "",
+        "output": "London 1888"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Pillards"
+    },
+    {
+        "instruction": "Quel jeu de Aventure pour 2 joueurs ?",
+        "input": "",
+        "output": "Pillards"
+    },
+    {
+        "instruction": "Quel jeu de Aventure pour 3 joueurs ?",
+        "input": "",
+        "output": "Pillards"
+    },
+    {
+        "instruction": "Quel jeu de Affrontement pour 5 joueurs ?",
+        "input": "",
+        "output": "Arena"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Arena"
+    },
+    {
+        "instruction": "Quel jeu de Affrontement pour 3 joueurs ?",
+        "input": "",
+        "output": "Arena"
+    },
+    {
+        "instruction": "Quel jeu de Pose de tuiles pour 5 joueurs ?",
+        "input": "",
+        "output": "Aventuriers du Rail"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Aventuriers du Rail"
+    },
+    {
+        "instruction": "Quel jeu de Pose de tuiles pour 3 joueurs ?",
+        "input": "",
+        "output": "Aventuriers du Rail"
+    },
+    {
+        "instruction": "Quel jeu de Course pour 5 joueurs ?",
+        "input": "",
+        "output": "Heat"
+    },
+    {
+        "instruction": "Quel jeu de Simulation pour 2 joueurs ?",
+        "input": "",
+        "output": "Heat"
+    },
+    {
+        "instruction": "Quel jeu de Simulation pour 4 joueurs ?",
+        "input": "",
+        "output": "Heat"
+    },
+    {
+        "instruction": "Quel jeu de Ambiance pour 6 joueurs ?",
+        "input": "",
+        "output": "Cash n guns"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 5 joueurs ?",
+        "input": "",
+        "output": "Cash n guns"
+    },
+    {
+        "instruction": "Quel jeu de Ambiance pour 4 joueurs ?",
+        "input": "",
+        "output": "Cash n guns"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Bunny Kingdom"
+    },
+    {
+        "instruction": "Quel jeu de Draft pour 3 joueurs ?",
+        "input": "",
+        "output": "Bunny Kingdom"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Bunny Kingdom"
+    },
+    {
+        "instruction": "Quel jeu de Conquête pour 2 joueurs ?",
+        "input": "",
+        "output": "Smallworld"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Smallworld"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 5 joueurs ?",
+        "input": "",
+        "output": "Smallworld"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Smallworld Underground"
+    },
+    {
+        "instruction": "Quel jeu de Conquête pour 3 joueurs ?",
+        "input": "",
+        "output": "Smallworld Underground"
+    },
+    {
+        "instruction": "Quel jeu de Conquête pour 4 joueurs ?",
+        "input": "",
+        "output": "Smallworld Underground"
+    },
+    {
+        "instruction": "Quel jeu de Coopératif pour 4 joueurs ?",
+        "input": "",
+        "output": "5-minute dungeon"
+    },
+    {
+        "instruction": "Quel jeu de Rapidité pour 2 joueurs ?",
+        "input": "",
+        "output": "5-minute dungeon"
+    },
+    {
+        "instruction": "Quel jeu de Coopératif pour 5 joueurs ?",
+        "input": "",
+        "output": "5-minute dungeon"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Taverna"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 5 joueurs ?",
+        "input": "",
+        "output": "Taverna"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Taverna"
+    },
+    {
+        "instruction": "Quel jeu de Temps réel pour 4 joueurs ?",
+        "input": "",
+        "output": "Captain Sonar"
+    },
+    {
+        "instruction": "Quel jeu de Coopératif pour 2 joueurs ?",
+        "input": "",
+        "output": "Captain Sonar"
+    },
+    {
+        "instruction": "Quel jeu de Coopératif pour 3 joueurs ?",
+        "input": "",
+        "output": "Captain Sonar"
+    },
+    {
+        "instruction": "Quel jeu de Humour pour 2 joueurs ?",
+        "input": "",
+        "output": "Munchkin Quest"
+    },
+    {
+        "instruction": "Quel jeu de Aventure pour 3 joueurs ?",
+        "input": "",
+        "output": "Munchkin Quest"
+    },
+    {
+        "instruction": "Quel jeu de Aventure pour 4 joueurs ?",
+        "input": "",
+        "output": "Munchkin Quest"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Arkropolis"
+    },
+    {
+        "instruction": "Quel jeu de Pose de tuiles pour 3 joueurs ?",
+        "input": "",
+        "output": "Arkropolis"
+    },
+    {
+        "instruction": "Quel jeu de Pose de tuiles pour 4 joueurs ?",
+        "input": "",
+        "output": "Arkropolis"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Spirit island"
+    },
+    {
+        "instruction": "Quel jeu de Coopératif pour 2 joueurs ?",
+        "input": "",
+        "output": "Spirit island"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Spirit island"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Black fleet"
+    },
+    {
+        "instruction": "Quel jeu de Pirates pour 3 joueurs ?",
+        "input": "",
+        "output": "Black fleet"
+    },
+    {
+        "instruction": "Quel jeu de Pirates pour 4 joueurs ?",
+        "input": "",
+        "output": "Black fleet"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Le trône de fer"
+    },
+    {
+        "instruction": "Quel jeu de Rôles cachés pour 5 joueurs ?",
+        "input": "",
+        "output": "Le trône de fer"
+    },
+    {
+        "instruction": "Quel jeu de Rôles cachés pour 3 joueurs ?",
+        "input": "",
+        "output": "Le trône de fer"
+    },
+    {
+        "instruction": "Quel jeu de Duel pour 2 joueurs ?",
+        "input": "",
+        "output": "Mind bug"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 2 joueurs ?",
+        "input": "",
+        "output": "Mind bug"
+    },
+    {
+        "instruction": "Quel jeu de Duel pour 2 joueurs ?",
+        "input": "",
+        "output": "Mind bug"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 4 joueurs ?",
+        "input": "",
+        "output": "Dame bleue"
+    },
+    {
+        "instruction": "Quel jeu de Déduction pour 3 joueurs ?",
+        "input": "",
+        "output": "Dame bleue"
+    },
+    {
+        "instruction": "Quel jeu de Déduction pour 2 joueurs ?",
+        "input": "",
+        "output": "Dame bleue"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 5 joueurs ?",
+        "input": "",
+        "output": "Bang"
+    },
+    {
+        "instruction": "Quel jeu de Affrontement pour 7 joueurs ?",
+        "input": "",
+        "output": "Bang"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 6 joueurs ?",
+        "input": "",
+        "output": "Bang"
+    },
+    {
+        "instruction": "Quel jeu de Extension pour 8 joueurs ?",
+        "input": "",
+        "output": "Bang Extension Wanted"
+    },
+    {
+        "instruction": "Quel jeu de Affrontement pour 4 joueurs ?",
+        "input": "",
+        "output": "Bang Extension Wanted"
+    },
+    {
+        "instruction": "Quel jeu de Extension pour 3 joueurs ?",
+        "input": "",
+        "output": "Bang Extension Wanted"
+    },
+    {
+        "instruction": "Quel jeu de Abstrait pour 2 joueurs ?",
+        "input": "",
+        "output": "The Viking game"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "The Viking game"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "The Viking game"
+    },
+    {
+        "instruction": "Quel jeu de Rôles cachés pour 11 joueurs ?",
+        "input": "",
+        "output": "Loup Garou"
+    },
+    {
+        "instruction": "Quel jeu de Ambiance pour 9 joueurs ?",
+        "input": "",
+        "output": "Loup Garou"
+    },
+    {
+        "instruction": "Quel jeu de Ambiance pour 14 joueurs ?",
+        "input": "",
+        "output": "Loup Garou"
+    },
+    {
+        "instruction": "Quel jeu de Ambiance pour 13 joueurs ?",
+        "input": "",
+        "output": "Loup Garou Nouvelle Lune"
+    },
+    {
+        "instruction": "Quel jeu de Extension pour 9 joueurs ?",
+        "input": "",
+        "output": "Loup Garou Nouvelle Lune"
+    },
+    {
+        "instruction": "Quel jeu de Extension pour 18 joueurs ?",
+        "input": "",
+        "output": "Loup Garou Nouvelle Lune"
+    },
+    {
+        "instruction": "Quel jeu de Compilation pour 11 joueurs ?",
+        "input": "",
+        "output": "Loup Garou Best of"
+    },
+    {
+        "instruction": "Quel jeu de Rôles cachés pour 24 joueurs ?",
+        "input": "",
+        "output": "Loup Garou Best of"
+    },
+    {
+        "instruction": "Quel jeu de Rôles cachés pour 21 joueurs ?",
+        "input": "",
+        "output": "Loup Garou Best of"
+    },
+    {
+        "instruction": "Quel jeu de Rôles cachés pour 18 joueurs ?",
+        "input": "",
+        "output": "Loup Garou Le Village"
+    },
+    {
+        "instruction": "Quel jeu de Extension pour 16 joueurs ?",
+        "input": "",
+        "output": "Loup Garou Le Village"
+    },
+    {
+        "instruction": "Quel jeu de Rôles cachés pour 12 joueurs ?",
+        "input": "",
+        "output": "Loup Garou Le Village"
+    },
+    {
+        "instruction": "Quel jeu de Défis pour 10 joueurs ?",
+        "input": "",
+        "output": "Killer Party"
+    },
+    {
+        "instruction": "Quel jeu de Ambiance pour 22 joueurs ?",
+        "input": "",
+        "output": "Killer Party"
+    },
+    {
+        "instruction": "Quel jeu de Ambiance pour 42 joueurs ?",
+        "input": "",
+        "output": "Killer Party"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 3 joueurs ?",
+        "input": "",
+        "output": "Uno Flip"
+    },
+    {
+        "instruction": "Quel jeu de Famille pour 2 joueurs ?",
+        "input": "",
+        "output": "Uno Flip"
+    },
+    {
+        "instruction": "Quel jeu de Famille pour 4 joueurs ?",
+        "input": "",
+        "output": "Uno Flip"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 5 joueurs ?",
+        "input": "",
+        "output": "Tarot"
+    },
+    {
+        "instruction": "Quel jeu de Traditionnel pour 5 joueurs ?",
+        "input": "",
+        "output": "Tarot"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 5 joueurs ?",
+        "input": "",
+        "output": "Tarot"
+    },
+    {
+        "instruction": "Quel jeu de Deckbuilding pour 4 joueurs ?",
+        "input": "",
+        "output": "Shards of Infinity"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 2 joueurs ?",
+        "input": "",
+        "output": "Shards of Infinity"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 3 joueurs ?",
+        "input": "",
+        "output": "Shards of Infinity"
+    },
+    {
+        "instruction": "Quel jeu de Abstrait pour 2 joueurs ?",
+        "input": "",
+        "output": "Jeu d’échecs"
+    },
+    {
+        "instruction": "Quel jeu de Abstrait pour 2 joueurs ?",
+        "input": "",
+        "output": "Jeu d’échecs"
+    },
+    {
+        "instruction": "Quel jeu de Abstrait pour 2 joueurs ?",
+        "input": "",
+        "output": "Jeu d’échecs"
+    },
+    {
+        "instruction": "Quel jeu de Deckbuilding pour 4 joueurs ?",
+        "input": "",
+        "output": "Hero Realms"
+    },
+    {
+        "instruction": "Quel jeu de Deckbuilding pour 3 joueurs ?",
+        "input": "",
+        "output": "Hero Realms"
+    },
+    {
+        "instruction": "Quel jeu de Deckbuilding pour 2 joueurs ?",
+        "input": "",
+        "output": "Hero Realms"
+    },
+    {
+        "instruction": "Quel jeu de Extension pour 4 joueurs ?",
+        "input": "",
+        "output": "Shards of Infinity L'ombre du Salut"
+    },
+    {
+        "instruction": "Quel jeu de Deckbuilding pour 3 joueurs ?",
+        "input": "",
+        "output": "Shards of Infinity L'ombre du Salut"
+    },
+    {
+        "instruction": "Quel jeu de Extension pour 2 joueurs ?",
+        "input": "",
+        "output": "Shards of Infinity L'ombre du Salut"
+    },
+    {
+        "instruction": "Quel jeu de Deckbuilding pour 3 joueurs ?",
+        "input": "",
+        "output": "Star Realms"
+    },
+    {
+        "instruction": "Quel jeu de Duel pour 4 joueurs ?",
+        "input": "",
+        "output": "Star Realms"
+    },
+    {
+        "instruction": "Quel jeu de Deckbuilding pour 2 joueurs ?",
+        "input": "",
+        "output": "Star Realms"
+    },
+    {
+        "instruction": "Quel jeu de Jeu d'ambiance pour 4 joueurs ?",
+        "input": "",
+        "output": "Jeu du Fictionnaire"
+    },
+    {
+        "instruction": "Quel jeu de Créativité pour 5 joueurs ?",
+        "input": "",
+        "output": "Jeu du Fictionnaire"
+    },
+    {
+        "instruction": "Quel jeu de Jeu d'ambiance pour 7 joueurs ?",
+        "input": "",
+        "output": "Jeu du Fictionnaire"
+    },
+    {
+        "instruction": "Quel jeu de Ambiance pour 5 joueurs ?",
+        "input": "",
+        "output": "Loup Garou pour un crépuscule"
+    },
+    {
+        "instruction": "Quel jeu de Rôles cachés pour 7 joueurs ?",
+        "input": "",
+        "output": "Loup Garou pour un crépuscule"
+    },
+    {
+        "instruction": "Quel jeu de Rôles cachés pour 9 joueurs ?",
+        "input": "",
+        "output": "Loup Garou pour un crépuscule"
+    },
+    {
+        "instruction": "Quel jeu de Rôles cachés pour 3 joueurs ?",
+        "input": "",
+        "output": "Vampire pour une nuit"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 6 joueurs ?",
+        "input": "",
+        "output": "Vampire pour une nuit"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 4 joueurs ?",
+        "input": "",
+        "output": "Vampire pour une nuit"
+    },
+    {
+        "instruction": "Quel jeu de Coopératif pour 5 joueurs ?",
+        "input": "",
+        "output": "The Crew"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 3 joueurs ?",
+        "input": "",
+        "output": "The Crew"
+    },
+    {
+        "instruction": "Quel jeu de Coopératif pour 4 joueurs ?",
+        "input": "",
+        "output": "The Crew"
+    },
+    {
+        "instruction": "Quel jeu de Contrôle de zone pour 2 joueurs ?",
+        "input": "",
+        "output": "Armadora"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Armadora"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Armadora"
+    },
+    {
+        "instruction": "Quel jeu de Ambiance pour 11 joueurs ?",
+        "input": "",
+        "output": "T'imagines si"
+    },
+    {
+        "instruction": "Quel jeu de Humour pour 2 joueurs ?",
+        "input": "",
+        "output": "T'imagines si"
+    },
+    {
+        "instruction": "Quel jeu de Humour pour 7 joueurs ?",
+        "input": "",
+        "output": "T'imagines si"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 6 joueurs ?",
+        "input": "",
+        "output": "Munchkin"
+    },
+    {
+        "instruction": "Quel jeu de Humour pour 3 joueurs ?",
+        "input": "",
+        "output": "Munchkin"
+    },
+    {
+        "instruction": "Quel jeu de Humour pour 5 joueurs ?",
+        "input": "",
+        "output": "Munchkin"
+    },
+    {
+        "instruction": "Quel jeu de Humour pour 4 joueurs ?",
+        "input": "",
+        "output": "Munchkin Cthulhu"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 6 joueurs ?",
+        "input": "",
+        "output": "Munchkin Cthulhu"
+    },
+    {
+        "instruction": "Quel jeu de Humour pour 5 joueurs ?",
+        "input": "",
+        "output": "Munchkin Cthulhu"
+    },
+    {
+        "instruction": "Quel jeu de Rapidité pour 3 joueurs ?",
+        "input": "",
+        "output": "Dobble"
+    },
+    {
+        "instruction": "Quel jeu de Observation pour 5 joueurs ?",
+        "input": "",
+        "output": "Dobble"
+    },
+    {
+        "instruction": "Quel jeu de Observation pour 8 joueurs ?",
+        "input": "",
+        "output": "Dobble"
+    },
+    {
+        "instruction": "Quel jeu de Rapidité pour 3 joueurs ?",
+        "input": "",
+        "output": "Dobble Star Wars"
+    },
+    {
+        "instruction": "Quel jeu de Observation pour 6 joueurs ?",
+        "input": "",
+        "output": "Dobble Star Wars"
+    },
+    {
+        "instruction": "Quel jeu de Rapidité pour 4 joueurs ?",
+        "input": "",
+        "output": "Dobble Star Wars"
+    },
+    {
+        "instruction": "Quel jeu de Enquête pour 18 joueurs ?",
+        "input": "",
+        "output": "À l'heure du crime où étiez-vous ?"
+    },
+    {
+        "instruction": "Quel jeu de Déduction pour 19 joueurs ?",
+        "input": "",
+        "output": "À l'heure du crime où étiez-vous ?"
+    },
+    {
+        "instruction": "Quel jeu de Enquête pour 15 joueurs ?",
+        "input": "",
+        "output": "À l'heure du crime où étiez-vous ?"
+    },
+    {
+        "instruction": "Quel jeu de Rapidité pour 6 joueurs ?",
+        "input": "",
+        "output": "Déclic"
+    },
+    {
+        "instruction": "Quel jeu de Quiz pour 7 joueurs ?",
+        "input": "",
+        "output": "Déclic"
+    },
+    {
+        "instruction": "Quel jeu de Quiz pour 5 joueurs ?",
+        "input": "",
+        "output": "Déclic"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Fantasy"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 4 joueurs ?",
+        "input": "",
+        "output": "Fantasy"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 2 joueurs ?",
+        "input": "",
+        "output": "Fantasy"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 4 joueurs ?",
+        "input": "",
+        "output": "Fantasy 2"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Fantasy 2"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 3 joueurs ?",
+        "input": "",
+        "output": "Fantasy 2"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 6 joueurs ?",
+        "input": "",
+        "output": "Star Munchkin"
+    },
+    {
+        "instruction": "Quel jeu de Humour pour 3 joueurs ?",
+        "input": "",
+        "output": "Star Munchkin"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 4 joueurs ?",
+        "input": "",
+        "output": "Star Munchkin"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 3 joueurs ?",
+        "input": "",
+        "output": "Munchkin Legends"
+    },
+    {
+        "instruction": "Quel jeu de Humour pour 4 joueurs ?",
+        "input": "",
+        "output": "Munchkin Legends"
+    },
+    {
+        "instruction": "Quel jeu de Humour pour 6 joueurs ?",
+        "input": "",
+        "output": "Munchkin Legends"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 6 joueurs ?",
+        "input": "",
+        "output": "Citadelles"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 2 joueurs ?",
+        "input": "",
+        "output": "Citadelles"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 5 joueurs ?",
+        "input": "",
+        "output": "Citadelles"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 2 joueurs ?",
+        "input": "",
+        "output": "Skyjo"
+    },
+    {
+        "instruction": "Quel jeu de Famille pour 4 joueurs ?",
+        "input": "",
+        "output": "Skyjo"
+    },
+    {
+        "instruction": "Quel jeu de Famille pour 6 joueurs ?",
+        "input": "",
+        "output": "Skyjo"
+    },
+    {
+        "instruction": "Quel jeu de Humour pour 5 joueurs ?",
+        "input": "",
+        "output": "Élixir"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 3 joueurs ?",
+        "input": "",
+        "output": "Élixir"
+    },
+    {
+        "instruction": "Quel jeu de Humour pour 4 joueurs ?",
+        "input": "",
+        "output": "Élixir"
+    },
+    {
+        "instruction": "Quel jeu de Extension pour 3 joueurs ?",
+        "input": "",
+        "output": "Élixir La Compil"
+    },
+    {
+        "instruction": "Quel jeu de Humour pour 5 joueurs ?",
+        "input": "",
+        "output": "Élixir La Compil"
+    },
+    {
+        "instruction": "Quel jeu de Extension pour 7 joueurs ?",
+        "input": "",
+        "output": "Élixir La Compil"
+    },
+    {
+        "instruction": "Quel jeu de Ambiance pour 5 joueurs ?",
+        "input": "",
+        "output": "Red Hot Silly Dragon"
+    },
+    {
+        "instruction": "Quel jeu de Humour pour 3 joueurs ?",
+        "input": "",
+        "output": "Red Hot Silly Dragon"
+    },
+    {
+        "instruction": "Quel jeu de Ambiance pour 4 joueurs ?",
+        "input": "",
+        "output": "Red Hot Silly Dragon"
+    },
+    {
+        "instruction": "Quel jeu de Humour pour 14 joueurs ?",
+        "input": "",
+        "output": "Rigor Mortis"
+    },
+    {
+        "instruction": "Quel jeu de Ambiance pour 8 joueurs ?",
+        "input": "",
+        "output": "Rigor Mortis"
+    },
+    {
+        "instruction": "Quel jeu de Humour pour 7 joueurs ?",
+        "input": "",
+        "output": "Rigor Mortis"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 6 joueurs ?",
+        "input": "",
+        "output": "Havoc"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Havoc"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 3 joueurs ?",
+        "input": "",
+        "output": "Havoc"
+    },
+    {
+        "instruction": "Quel jeu de Humour pour 4 joueurs ?",
+        "input": "",
+        "output": "Les Colocs"
+    },
+    {
+        "instruction": "Quel jeu de Rôles pour 3 joueurs ?",
+        "input": "",
+        "output": "Les Colocs"
+    },
+    {
+        "instruction": "Quel jeu de Rôles pour 2 joueurs ?",
+        "input": "",
+        "output": "Les Colocs"
+    },
+    {
+        "instruction": "Quel jeu de Exploration pour 2 joueurs ?",
+        "input": "",
+        "output": "Deep Sea Adventures"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Deep Sea Adventures"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 5 joueurs ?",
+        "input": "",
+        "output": "Deep Sea Adventures"
+    },
+    {
+        "instruction": "Quel jeu de Duel pour 2 joueurs ?",
+        "input": "",
+        "output": "Schotten Totten"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 2 joueurs ?",
+        "input": "",
+        "output": "Schotten Totten"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 2 joueurs ?",
+        "input": "",
+        "output": "Schotten Totten"
+    },
+    {
+        "instruction": "Quel jeu de Rapidité pour 6 joueurs ?",
+        "input": "",
+        "output": "Twin It"
+    },
+    {
+        "instruction": "Quel jeu de Observation pour 3 joueurs ?",
+        "input": "",
+        "output": "Twin It"
+    },
+    {
+        "instruction": "Quel jeu de Observation pour 4 joueurs ?",
+        "input": "",
+        "output": "Twin It"
+    },
+    {
+        "instruction": "Quel jeu de Mémoire pour 3 joueurs ?",
+        "input": "",
+        "output": "That's Not a Hat"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 6 joueurs ?",
+        "input": "",
+        "output": "That's Not a Hat"
+    },
+    {
+        "instruction": "Quel jeu de Mémoire pour 7 joueurs ?",
+        "input": "",
+        "output": "That's Not a Hat"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 3 joueurs ?",
+        "input": "",
+        "output": "Skull and Roses"
+    },
+    {
+        "instruction": "Quel jeu de Déduction pour 6 joueurs ?",
+        "input": "",
+        "output": "Skull and Roses"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 5 joueurs ?",
+        "input": "",
+        "output": "Skull and Roses"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 2 joueurs ?",
+        "input": "",
+        "output": "Passo"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 2 joueurs ?",
+        "input": "",
+        "output": "Passo"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 2 joueurs ?",
+        "input": "",
+        "output": "Passo"
+    },
+    {
+        "instruction": "Quel jeu de Rapidité pour 7 joueurs ?",
+        "input": "",
+        "output": "Crack List"
+    },
+    {
+        "instruction": "Quel jeu de Ambiance pour 5 joueurs ?",
+        "input": "",
+        "output": "Crack List"
+    },
+    {
+        "instruction": "Quel jeu de Rapidité pour 6 joueurs ?",
+        "input": "",
+        "output": "Crack List"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 3 joueurs ?",
+        "input": "",
+        "output": "Exploding Kittens"
+    },
+    {
+        "instruction": "Quel jeu de Humour pour 2 joueurs ?",
+        "input": "",
+        "output": "Exploding Kittens"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 4 joueurs ?",
+        "input": "",
+        "output": "Exploding Kittens"
+    },
+    {
+        "instruction": "Quel jeu de Humour pour 3 joueurs ?",
+        "input": "",
+        "output": "Exploding Kittens Édition festive"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 5 joueurs ?",
+        "input": "",
+        "output": "Exploding Kittens Édition festive"
+    },
+    {
+        "instruction": "Quel jeu de Humour pour 2 joueurs ?",
+        "input": "",
+        "output": "Exploding Kittens Édition festive"
+    },
+    {
+        "instruction": "Quel jeu de Déduction pour 5 joueurs ?",
+        "input": "",
+        "output": "Love Letter"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 6 joueurs ?",
+        "input": "",
+        "output": "Love Letter"
+    },
+    {
+        "instruction": "Quel jeu de Déduction pour 4 joueurs ?",
+        "input": "",
+        "output": "Love Letter"
+    },
+    {
+        "instruction": "Quel jeu de Rôles cachés pour 11 joueurs ?",
+        "input": "",
+        "output": "Mascarade"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 2 joueurs ?",
+        "input": "",
+        "output": "Mascarade"
+    },
+    {
+        "instruction": "Quel jeu de Rôles cachés pour 9 joueurs ?",
+        "input": "",
+        "output": "Mascarade"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "La Fièvre de l'or"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 4 joueurs ?",
+        "input": "",
+        "output": "La Fièvre de l'or"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 5 joueurs ?",
+        "input": "",
+        "output": "La Fièvre de l'or"
+    },
+    {
+        "instruction": "Quel jeu de Asymétrique pour 5 joueurs ?",
+        "input": "",
+        "output": "Not Alone"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 6 joueurs ?",
+        "input": "",
+        "output": "Not Alone"
+    },
+    {
+        "instruction": "Quel jeu de Asymétrique pour 4 joueurs ?",
+        "input": "",
+        "output": "Not Alone"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 6 joueurs ?",
+        "input": "",
+        "output": "Korsar"
+    },
+    {
+        "instruction": "Quel jeu de Pirates pour 3 joueurs ?",
+        "input": "",
+        "output": "Korsar"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 5 joueurs ?",
+        "input": "",
+        "output": "Korsar"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 2 joueurs ?",
+        "input": "",
+        "output": "Guerre froide CIA vs KGB"
+    },
+    {
+        "instruction": "Quel jeu de Duel pour 2 joueurs ?",
+        "input": "",
+        "output": "Guerre froide CIA vs KGB"
+    },
+    {
+        "instruction": "Quel jeu de Duel pour 2 joueurs ?",
+        "input": "",
+        "output": "Guerre froide CIA vs KGB"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 8 joueurs ?",
+        "input": "",
+        "output": "Infiltrés"
+    },
+    {
+        "instruction": "Quel jeu de Déduction pour 3 joueurs ?",
+        "input": "",
+        "output": "Infiltrés"
+    },
+    {
+        "instruction": "Quel jeu de Déduction pour 5 joueurs ?",
+        "input": "",
+        "output": "Infiltrés"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 4 joueurs ?",
+        "input": "",
+        "output": "Papayoo"
+    },
+    {
+        "instruction": "Quel jeu de Famille pour 7 joueurs ?",
+        "input": "",
+        "output": "Papayoo"
+    },
+    {
+        "instruction": "Quel jeu de Famille pour 6 joueurs ?",
+        "input": "",
+        "output": "Papayoo"
+    },
+    {
+        "instruction": "Quel jeu de Humour pour 2 joueurs ?",
+        "input": "",
+        "output": "Tempête sur l'échiquier"
+    },
+    {
+        "instruction": "Quel jeu de Échecs pour 2 joueurs ?",
+        "input": "",
+        "output": "Tempête sur l'échiquier"
+    },
+    {
+        "instruction": "Quel jeu de Humour pour 2 joueurs ?",
+        "input": "",
+        "output": "Tempête sur l'échiquier"
+    },
+    {
+        "instruction": "Quel jeu de Abstrait pour 2 joueurs ?",
+        "input": "",
+        "output": "Jeu de go"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Jeu de go"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Jeu de go"
+    },
+    {
+        "instruction": "Quel jeu de Abstrait pour 2 joueurs ?",
+        "input": "",
+        "output": "Jeu de dames"
+    },
+    {
+        "instruction": "Quel jeu de Abstrait pour 2 joueurs ?",
+        "input": "",
+        "output": "Jeu de dames"
+    },
+    {
+        "instruction": "Quel jeu de Abstrait pour 2 joueurs ?",
+        "input": "",
+        "output": "Jeu de dames"
+    },
+    {
+        "instruction": "Quel jeu de Rôles cachés pour 8 joueurs ?",
+        "input": "",
+        "output": "Traîtres à bord"
+    },
+    {
+        "instruction": "Quel jeu de Coopératif pour 4 joueurs ?",
+        "input": "",
+        "output": "Traîtres à bord"
+    },
+    {
+        "instruction": "Quel jeu de Coopératif pour 6 joueurs ?",
+        "input": "",
+        "output": "Traîtres à bord"
+    },
+    {
+        "instruction": "Quel jeu de Déduction pour 2 joueurs ?",
+        "input": "",
+        "output": "Complots Deluxe"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 5 joueurs ?",
+        "input": "",
+        "output": "Complots Deluxe"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 6 joueurs ?",
+        "input": "",
+        "output": "Complots Deluxe"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Oriflame"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 4 joueurs ?",
+        "input": "",
+        "output": "Oriflame"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 5 joueurs ?",
+        "input": "",
+        "output": "Oriflame"
+    },
+    {
+        "instruction": "Quel jeu de Ambiance pour 6 joueurs ?",
+        "input": "",
+        "output": "Imagine"
+    },
+    {
+        "instruction": "Quel jeu de Créativité pour 4 joueurs ?",
+        "input": "",
+        "output": "Imagine"
+    },
+    {
+        "instruction": "Quel jeu de Créativité pour 5 joueurs ?",
+        "input": "",
+        "output": "Imagine"
+    },
+    {
+        "instruction": "Quel jeu de Duel pour 2 joueurs ?",
+        "input": "",
+        "output": "Jaipur"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 2 joueurs ?",
+        "input": "",
+        "output": "Jaipur"
+    },
+    {
+        "instruction": "Quel jeu de Duel pour 2 joueurs ?",
+        "input": "",
+        "output": "Jaipur"
+    },
+    {
+        "instruction": "Quel jeu de Pose de tuiles pour 3 joueurs ?",
+        "input": "",
+        "output": "La Guerre des moutons"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "La Guerre des moutons"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "La Guerre des moutons"
+    },
+    {
+        "instruction": "Quel jeu de Coopératif pour 4 joueurs ?",
+        "input": "",
+        "output": "Room-25"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 5 joueurs ?",
+        "input": "",
+        "output": "Room-25"
+    },
+    {
+        "instruction": "Quel jeu de Coopératif pour 6 joueurs ?",
+        "input": "",
+        "output": "Room-25"
+    },
+    {
+        "instruction": "Quel jeu de Aventure pour 2 joueurs ?",
+        "input": "",
+        "output": "Casting Shadows"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Casting Shadows"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Casting Shadows"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 12 joueurs ?",
+        "input": "",
+        "output": "Mafia de Cuba"
+    },
+    {
+        "instruction": "Quel jeu de Rôles cachés pour 9 joueurs ?",
+        "input": "",
+        "output": "Mafia de Cuba"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 8 joueurs ?",
+        "input": "",
+        "output": "Mafia de Cuba"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 9 joueurs ?",
+        "input": "",
+        "output": "Galerapagos"
+    },
+    {
+        "instruction": "Quel jeu de Coopératif pour 4 joueurs ?",
+        "input": "",
+        "output": "Galerapagos"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 10 joueurs ?",
+        "input": "",
+        "output": "Galerapagos"
+    },
+    {
+        "instruction": "Quel jeu de Rôles cachés pour 7 joueurs ?",
+        "input": "",
+        "output": "Shadow Hunters"
+    },
+    {
+        "instruction": "Quel jeu de Affrontement pour 5 joueurs ?",
+        "input": "",
+        "output": "Shadow Hunters"
+    },
+    {
+        "instruction": "Quel jeu de Rôles cachés pour 6 joueurs ?",
+        "input": "",
+        "output": "Shadow Hunters"
+    },
+    {
+        "instruction": "Quel jeu de Pose de tuiles pour 3 joueurs ?",
+        "input": "",
+        "output": "Kingdomino"
+    },
+    {
+        "instruction": "Quel jeu de Famille pour 4 joueurs ?",
+        "input": "",
+        "output": "Kingdomino"
+    },
+    {
+        "instruction": "Quel jeu de Pose de tuiles pour 2 joueurs ?",
+        "input": "",
+        "output": "Kingdomino"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 6 joueurs ?",
+        "input": "",
+        "output": "Here to Slay"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Here to Slay"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 5 joueurs ?",
+        "input": "",
+        "output": "Here to Slay"
+    },
+    {
+        "instruction": "Quel jeu de Extension pour 4 joueurs ?",
+        "input": "",
+        "output": "Here to Slay Extensions"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Here to Slay Extensions"
+    },
+    {
+        "instruction": "Quel jeu de Extension pour 5 joueurs ?",
+        "input": "",
+        "output": "Here to Slay Extensions"
+    },
+    {
+        "instruction": "Quel jeu de Famille pour 6 joueurs ?",
+        "input": "",
+        "output": "Sweet Me"
+    },
+    {
+        "instruction": "Quel jeu de Ambiance pour 8 joueurs ?",
+        "input": "",
+        "output": "Sweet Me"
+    },
+    {
+        "instruction": "Quel jeu de Famille pour 2 joueurs ?",
+        "input": "",
+        "output": "Sweet Me"
+    },
+    {
+        "instruction": "Quel jeu de Humour pour 4 joueurs ?",
+        "input": "",
+        "output": "Lâche pas la savonnette"
+    },
+    {
+        "instruction": "Quel jeu de Ambiance pour 3 joueurs ?",
+        "input": "",
+        "output": "Lâche pas la savonnette"
+    },
+    {
+        "instruction": "Quel jeu de Ambiance pour 5 joueurs ?",
+        "input": "",
+        "output": "Lâche pas la savonnette"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 4 joueurs ?",
+        "input": "",
+        "output": "Time Bomb"
+    },
+    {
+        "instruction": "Quel jeu de Déduction pour 8 joueurs ?",
+        "input": "",
+        "output": "Time Bomb"
+    },
+    {
+        "instruction": "Quel jeu de Déduction pour 5 joueurs ?",
+        "input": "",
+        "output": "Time Bomb"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 7 joueurs ?",
+        "input": "",
+        "output": "Skyjo Action"
+    },
+    {
+        "instruction": "Quel jeu de Extension pour 8 joueurs ?",
+        "input": "",
+        "output": "Skyjo Action"
+    },
+    {
+        "instruction": "Quel jeu de Extension pour 5 joueurs ?",
+        "input": "",
+        "output": "Skyjo Action"
+    },
+    {
+        "instruction": "Quel jeu de Humour pour 13 joueurs ?",
+        "input": "",
+        "output": "Juduku"
+    },
+    {
+        "instruction": "Quel jeu de Défis pour 5 joueurs ?",
+        "input": "",
+        "output": "Juduku"
+    },
+    {
+        "instruction": "Quel jeu de Défis pour 3 joueurs ?",
+        "input": "",
+        "output": "Juduku"
+    },
+    {
+        "instruction": "Quel jeu de Rapidité pour 7 joueurs ?",
+        "input": "",
+        "output": "Gobb'it"
+    },
+    {
+        "instruction": "Quel jeu de Observation pour 6 joueurs ?",
+        "input": "",
+        "output": "Gobb'it"
+    },
+    {
+        "instruction": "Quel jeu de Observation pour 3 joueurs ?",
+        "input": "",
+        "output": "Gobb'it"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 8 joueurs ?",
+        "input": "",
+        "output": "Complots"
+    },
+    {
+        "instruction": "Quel jeu de Déduction pour 6 joueurs ?",
+        "input": "",
+        "output": "Complots"
+    },
+    {
+        "instruction": "Quel jeu de Déduction pour 3 joueurs ?",
+        "input": "",
+        "output": "Complots"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 6 joueurs ?",
+        "input": "",
+        "output": "Baston de sorciers"
+    },
+    {
+        "instruction": "Quel jeu de Duel pour 3 joueurs ?",
+        "input": "",
+        "output": "Baston de sorciers"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Baston de sorciers"
+    },
+    {
+        "instruction": "Quel jeu de Duel pour 2 joueurs ?",
+        "input": "",
+        "output": "Steam Torpedo"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Steam Torpedo"
+    },
+    {
+        "instruction": "Quel jeu de Duel pour 2 joueurs ?",
+        "input": "",
+        "output": "Steam Torpedo"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 3 joueurs ?",
+        "input": "",
+        "output": "Koryo"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 4 joueurs ?",
+        "input": "",
+        "output": "Koryo"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 2 joueurs ?",
+        "input": "",
+        "output": "Koryo"
+    },
+    {
+        "instruction": "Quel jeu de Rapidité pour 1 joueurs ?",
+        "input": "",
+        "output": "Panic Island!"
+    },
+    {
+        "instruction": "Quel jeu de Coopératif pour 8 joueurs ?",
+        "input": "",
+        "output": "Panic Island!"
+    },
+    {
+        "instruction": "Quel jeu de Coopératif pour 7 joueurs ?",
+        "input": "",
+        "output": "Panic Island!"
+    },
+    {
+        "instruction": "Quel jeu de Narration pour 3 joueurs ?",
+        "input": "",
+        "output": "Il était une fois"
+    },
+    {
+        "instruction": "Quel jeu de Créativité pour 6 joueurs ?",
+        "input": "",
+        "output": "Il était une fois"
+    },
+    {
+        "instruction": "Quel jeu de Narration pour 2 joueurs ?",
+        "input": "",
+        "output": "Il était une fois"
+    },
+    {
+        "instruction": "Quel jeu de Quiz pour 29 joueurs ?",
+        "input": "",
+        "output": "Trivial Pursuit Édition Genius"
+    },
+    {
+        "instruction": "Quel jeu de Culture générale pour 30 joueurs ?",
+        "input": "",
+        "output": "Trivial Pursuit Édition Genius"
+    },
+    {
+        "instruction": "Quel jeu de Culture générale pour 13 joueurs ?",
+        "input": "",
+        "output": "Trivial Pursuit Édition Genius"
+    },
+    {
+        "instruction": "Quel jeu de Conquête pour 2 joueurs ?",
+        "input": "",
+        "output": "Stratego"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Stratego"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Stratego"
+    },
+    {
+        "instruction": "Quel jeu de Quiz pour 9 joueurs ?",
+        "input": "",
+        "output": "Trivial Pursuit Édition Junior"
+    },
+    {
+        "instruction": "Quel jeu de Famille pour 15 joueurs ?",
+        "input": "",
+        "output": "Trivial Pursuit Édition Junior"
+    },
+    {
+        "instruction": "Quel jeu de Famille pour 36 joueurs ?",
+        "input": "",
+        "output": "Trivial Pursuit Édition Junior"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 5 joueurs ?",
+        "input": "",
+        "output": "Bang Le Jeu de Dés"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 6 joueurs ?",
+        "input": "",
+        "output": "Bang Le Jeu de Dés"
+    },
+    {
+        "instruction": "Quel jeu de Dés pour 7 joueurs ?",
+        "input": "",
+        "output": "Bang Le Jeu de Dés"
+    },
+    {
+        "instruction": "Quel jeu de Mots pour 3 joueurs ?",
+        "input": "",
+        "output": "Scrabble"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Scrabble"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Scrabble"
+    },
+    {
+        "instruction": "Quel jeu de Abstrait pour 2 joueurs ?",
+        "input": "",
+        "output": "Quarto"
+    },
+    {
+        "instruction": "Quel jeu de Puzzle pour 2 joueurs ?",
+        "input": "",
+        "output": "Quarto"
+    },
+    {
+        "instruction": "Quel jeu de Abstrait pour 2 joueurs ?",
+        "input": "",
+        "output": "Quarto"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Squaryd"
+    },
+    {
+        "instruction": "Quel jeu de Famille pour 2 joueurs ?",
+        "input": "",
+        "output": "Squaryd"
+    },
+    {
+        "instruction": "Quel jeu de Famille pour 2 joueurs ?",
+        "input": "",
+        "output": "Squaryd"
+    },
+    {
+        "instruction": "Quel jeu de Duel pour 2 joueurs ?",
+        "input": "",
+        "output": "Dice Throne"
+    },
+    {
+        "instruction": "Quel jeu de Dés pour 2 joueurs ?",
+        "input": "",
+        "output": "Dice Throne"
+    },
+    {
+        "instruction": "Quel jeu de Dés pour 2 joueurs ?",
+        "input": "",
+        "output": "Dice Throne"
+    },
+    {
+        "instruction": "Quel jeu de Rôles cachés pour 5 joueurs ?",
+        "input": "",
+        "output": "Secret Hitler"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 8 joueurs ?",
+        "input": "",
+        "output": "Secret Hitler"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 7 joueurs ?",
+        "input": "",
+        "output": "Secret Hitler"
+    },
+    {
+        "instruction": "Quel jeu de Abstrait pour 2 joueurs ?",
+        "input": "",
+        "output": "Cathedral"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Cathedral"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Cathedral"
+    },
+    {
+        "instruction": "Quel jeu de Rôles cachés pour 5 joueurs ?",
+        "input": "",
+        "output": "Nosferatu"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 6 joueurs ?",
+        "input": "",
+        "output": "Nosferatu"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 9 joueurs ?",
+        "input": "",
+        "output": "Nosferatu"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 5 joueurs ?",
+        "input": "",
+        "output": "Carcassonne"
+    },
+    {
+        "instruction": "Quel jeu de Pose de tuiles pour 3 joueurs ?",
+        "input": "",
+        "output": "Carcassonne"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Carcassonne"
+    },
+    {
+        "instruction": "Quel jeu de Extension pour 5 joueurs ?",
+        "input": "",
+        "output": "Carcassonne Auberges & Cathédrales"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Carcassonne Auberges & Cathédrales"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Carcassonne Auberges & Cathédrales"
+    },
+    {
+        "instruction": "Quel jeu de Extension pour 3 joueurs ?",
+        "input": "",
+        "output": "Carcassonne Ponts, Forteresses & Bazar"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Carcassonne Ponts, Forteresses & Bazar"
+    },
+    {
+        "instruction": "Quel jeu de Extension pour 5 joueurs ?",
+        "input": "",
+        "output": "Carcassonne Ponts, Forteresses & Bazar"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Pandémie"
+    },
+    {
+        "instruction": "Quel jeu de Coopératif pour 3 joueurs ?",
+        "input": "",
+        "output": "Pandémie"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Pandémie"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 6 joueurs ?",
+        "input": "",
+        "output": "7 Wonders"
+    },
+    {
+        "instruction": "Quel jeu de Draft pour 2 joueurs ?",
+        "input": "",
+        "output": "7 Wonders"
+    },
+    {
+        "instruction": "Quel jeu de Draft pour 5 joueurs ?",
+        "input": "",
+        "output": "7 Wonders"
+    },
+    {
+        "instruction": "Quel jeu de Gestion pour 3 joueurs ?",
+        "input": "",
+        "output": "Les Colons de Catan"
+    },
+    {
+        "instruction": "Quel jeu de Conquête pour 4 joueurs ?",
+        "input": "",
+        "output": "Les Colons de Catan"
+    },
+    {
+        "instruction": "Quel jeu de Conquête pour 4 joueurs ?",
+        "input": "",
+        "output": "Les Colons de Catan"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Frontières"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 6 joueurs ?",
+        "input": "",
+        "output": "Frontières"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 3 joueurs ?",
+        "input": "",
+        "output": "Frontières"
+    },
+    {
+        "instruction": "Quel jeu de Affrontement pour 2 joueurs ?",
+        "input": "",
+        "output": "Doom Le Jeu de Plateau"
+    },
+    {
+        "instruction": "Quel jeu de Coopératif pour 4 joueurs ?",
+        "input": "",
+        "output": "Doom Le Jeu de Plateau"
+    },
+    {
+        "instruction": "Quel jeu de Coopératif pour 3 joueurs ?",
+        "input": "",
+        "output": "Doom Le Jeu de Plateau"
+    },
+    {
+        "instruction": "Quel jeu de Duel pour 5 joueurs ?",
+        "input": "",
+        "output": "Kamigami"
+    },
+    {
+        "instruction": "Quel jeu de Mythologie pour 2 joueurs ?",
+        "input": "",
+        "output": "Kamigami"
+    },
+    {
+        "instruction": "Quel jeu de Duel pour 6 joueurs ?",
+        "input": "",
+        "output": "Kamigami"
+    },
+    {
+        "instruction": "Quel jeu de Quiz pour 4 joueurs ?",
+        "input": "",
+        "output": "Vive La France"
+    },
+    {
+        "instruction": "Quel jeu de Culture générale pour 2 joueurs ?",
+        "input": "",
+        "output": "Vive La France"
+    },
+    {
+        "instruction": "Quel jeu de Quiz pour 3 joueurs ?",
+        "input": "",
+        "output": "Vive La France"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Scrabble Classique"
+    },
+    {
+        "instruction": "Quel jeu de Mots pour 3 joueurs ?",
+        "input": "",
+        "output": "Scrabble Classique"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Scrabble Classique"
+    },
+    {
+        "instruction": "Quel jeu de Gestion pour 2 joueurs ?",
+        "input": "",
+        "output": "Caylus"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Caylus"
+    },
+    {
+        "instruction": "Quel jeu de Gestion pour 5 joueurs ?",
+        "input": "",
+        "output": "Caylus"
+    },
+    {
+        "instruction": "Quel jeu de Gestion pour 2 joueurs ?",
+        "input": "",
+        "output": "Dungeon Lords"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Dungeon Lords"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Dungeon Lords"
+    },
+    {
+        "instruction": "Quel jeu de Duel pour 2 joueurs ?",
+        "input": "",
+        "output": "7 Wonders Duel"
+    },
+    {
+        "instruction": "Quel jeu de Draft pour 2 joueurs ?",
+        "input": "",
+        "output": "7 Wonders Duel"
+    },
+    {
+        "instruction": "Quel jeu de Duel pour 2 joueurs ?",
+        "input": "",
+        "output": "7 Wonders Duel"
+    },
+    {
+        "instruction": "Quel jeu de Abstrait pour 2 joueurs ?",
+        "input": "",
+        "output": "Quixo"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Quixo"
+    },
+    {
+        "instruction": "Quel jeu de Abstrait pour 2 joueurs ?",
+        "input": "",
+        "output": "Quixo"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Infiltration"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 5 joueurs ?",
+        "input": "",
+        "output": "Infiltration"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 6 joueurs ?",
+        "input": "",
+        "output": "Infiltration"
+    },
+    {
+        "instruction": "Quel jeu de Abstrait pour 2 joueurs ?",
+        "input": "",
+        "output": "Gobblet"
+    },
+    {
+        "instruction": "Quel jeu de Famille pour 2 joueurs ?",
+        "input": "",
+        "output": "Gobblet"
+    },
+    {
+        "instruction": "Quel jeu de Famille pour 2 joueurs ?",
+        "input": "",
+        "output": "Gobblet"
+    },
+    {
+        "instruction": "Quel jeu de Coopératif pour 2 joueurs ?",
+        "input": "",
+        "output": "L'île Interdite"
+    },
+    {
+        "instruction": "Quel jeu de Aventure pour 4 joueurs ?",
+        "input": "",
+        "output": "L'île Interdite"
+    },
+    {
+        "instruction": "Quel jeu de Aventure pour 3 joueurs ?",
+        "input": "",
+        "output": "L'île Interdite"
+    },
+    {
+        "instruction": "Quel jeu de Dés pour 2 joueurs ?",
+        "input": "",
+        "output": "Roll Through the Ages The Bronze Age"
+    },
+    {
+        "instruction": "Quel jeu de Gestion pour 3 joueurs ?",
+        "input": "",
+        "output": "Roll Through the Ages The Bronze Age"
+    },
+    {
+        "instruction": "Quel jeu de Dés pour 4 joueurs ?",
+        "input": "",
+        "output": "Roll Through the Ages The Bronze Age"
+    },
+    {
+        "instruction": "Quel jeu de Déduction pour 2 joueurs ?",
+        "input": "",
+        "output": "Super Mastermind"
+    },
+    {
+        "instruction": "Quel jeu de Puzzle pour 2 joueurs ?",
+        "input": "",
+        "output": "Super Mastermind"
+    },
+    {
+        "instruction": "Quel jeu de Déduction pour 2 joueurs ?",
+        "input": "",
+        "output": "Super Mastermind"
+    },
+    {
+        "instruction": "Quel jeu de Duel pour 2 joueurs ?",
+        "input": "",
+        "output": "Kahuna"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Kahuna"
+    },
+    {
+        "instruction": "Quel jeu de Duel pour 2 joueurs ?",
+        "input": "",
+        "output": "Kahuna"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Les Colons de Catan Le Jeu de Cartes"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 2 joueurs ?",
+        "input": "",
+        "output": "Les Colons de Catan Le Jeu de Cartes"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 2 joueurs ?",
+        "input": "",
+        "output": "Les Colons de Catan Le Jeu de Cartes"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Quoridor"
+    },
+    {
+        "instruction": "Quel jeu de Abstrait pour 4 joueurs ?",
+        "input": "",
+        "output": "Quoridor"
+    },
+    {
+        "instruction": "Quel jeu de Abstrait pour 2 joueurs ?",
+        "input": "",
+        "output": "Quoridor"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 6 joueurs ?",
+        "input": "",
+        "output": "RoboRally"
+    },
+    {
+        "instruction": "Quel jeu de Programmation pour 7 joueurs ?",
+        "input": "",
+        "output": "RoboRally"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 5 joueurs ?",
+        "input": "",
+        "output": "RoboRally"
+    },
+    {
+        "instruction": "Quel jeu de Programmation pour 5 joueurs ?",
+        "input": "",
+        "output": "RoboRally Armed and Dangerous"
+    },
+    {
+        "instruction": "Quel jeu de Extension pour 8 joueurs ?",
+        "input": "",
+        "output": "RoboRally Armed and Dangerous"
+    },
+    {
+        "instruction": "Quel jeu de Programmation pour 7 joueurs ?",
+        "input": "",
+        "output": "RoboRally Armed and Dangerous"
+    },
+    {
+        "instruction": "Quel jeu de Exploration pour 2 joueurs ?",
+        "input": "",
+        "output": "Claustrophobia"
+    },
+    {
+        "instruction": "Quel jeu de Affrontement pour 2 joueurs ?",
+        "input": "",
+        "output": "Claustrophobia"
+    },
+    {
+        "instruction": "Quel jeu de Affrontement pour 2 joueurs ?",
+        "input": "",
+        "output": "Claustrophobia"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Othello"
+    },
+    {
+        "instruction": "Quel jeu de Abstrait pour 2 joueurs ?",
+        "input": "",
+        "output": "Othello"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Othello"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Santiago"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 2 joueurs ?",
+        "input": "",
+        "output": "Santiago"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 3 joueurs ?",
+        "input": "",
+        "output": "Santiago"
+    },
+    {
+        "instruction": "Quel jeu de Aventure pour 4 joueurs ?",
+        "input": "",
+        "output": "Zombies"
+    },
+    {
+        "instruction": "Quel jeu de Plateau pour 2 joueurs ?",
+        "input": "",
+        "output": "Zombies"
+    },
+    {
+        "instruction": "Quel jeu de Aventure pour 3 joueurs ?",
+        "input": "",
+        "output": "Zombies"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Vinci"
+    },
+    {
+        "instruction": "Quel jeu de Conquête pour 2 joueurs ?",
+        "input": "",
+        "output": "Vinci"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Vinci"
+    },
+    {
+        "instruction": "Quel jeu de Hasard pour 3 joueurs ?",
+        "input": "",
+        "output": "Destin"
+    },
+    {
+        "instruction": "Quel jeu de Famille pour 4 joueurs ?",
+        "input": "",
+        "output": "Destin"
+    },
+    {
+        "instruction": "Quel jeu de Hasard pour 2 joueurs ?",
+        "input": "",
+        "output": "Destin"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Civilisation"
+    },
+    {
+        "instruction": "Quel jeu de Conquête pour 2 joueurs ?",
+        "input": "",
+        "output": "Civilisation"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Civilisation"
+    },
+    {
+        "instruction": "Quel jeu de Aventure pour 2 joueurs ?",
+        "input": "",
+        "output": "Elfenland"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Elfenland"
+    },
+    {
+        "instruction": "Quel jeu de Aventure pour 3 joueurs ?",
+        "input": "",
+        "output": "Elfenland"
+    },
+    {
+        "instruction": "Quel jeu de Diplomatie pour 5 joueurs ?",
+        "input": "",
+        "output": "Dune"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Dune"
+    },
+    {
+        "instruction": "Quel jeu de Diplomatie pour 6 joueurs ?",
+        "input": "",
+        "output": "Dune"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Zargos"
+    },
+    {
+        "instruction": "Quel jeu de Conquête pour 3 joueurs ?",
+        "input": "",
+        "output": "Zargos"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Zargos"
+    },
+    {
+        "instruction": "Quel jeu de Famille pour 6 joueurs ?",
+        "input": "",
+        "output": "Twister"
+    },
+    {
+        "instruction": "Quel jeu de Jeu physique pour 2 joueurs ?",
+        "input": "",
+        "output": "Twister"
+    },
+    {
+        "instruction": "Quel jeu de Famille pour 7 joueurs ?",
+        "input": "",
+        "output": "Twister"
+    },
+    {
+        "instruction": "Quel jeu de Jeu d’adresse pour 4 joueurs ?",
+        "input": "",
+        "output": "Blonde Bowl"
+    },
+    {
+        "instruction": "Quel jeu de Jeu d’adresse pour 3 joueurs ?",
+        "input": "",
+        "output": "Blonde Bowl"
+    },
+    {
+        "instruction": "Quel jeu de Jeu d’adresse pour 2 joueurs ?",
+        "input": "",
+        "output": "Blonde Bowl"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Rencontre Cosmique"
+    },
+    {
+        "instruction": "Quel jeu de Diplomatie pour 4 joueurs ?",
+        "input": "",
+        "output": "Rencontre Cosmique"
+    },
+    {
+        "instruction": "Quel jeu de Diplomatie pour 2 joueurs ?",
+        "input": "",
+        "output": "Rencontre Cosmique"
+    },
+    {
+        "instruction": "Quel jeu de Conquête pour 3 joueurs ?",
+        "input": "",
+        "output": "Suprématie"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Suprématie"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Suprématie"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 6 joueurs ?",
+        "input": "",
+        "output": "Cash n Guns Yakuza"
+    },
+    {
+        "instruction": "Quel jeu de Extension pour 3 joueurs ?",
+        "input": "",
+        "output": "Cash n Guns Yakuza"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 4 joueurs ?",
+        "input": "",
+        "output": "Cash n Guns Yakuza"
+    },
+    {
+        "instruction": "Quel jeu de Extension pour 6 joueurs ?",
+        "input": "",
+        "output": "Les Colons de Catan Extensions 5-6 Joueurs"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Les Colons de Catan Extensions 5-6 Joueurs"
+    },
+    {
+        "instruction": "Quel jeu de Extension pour 3 joueurs ?",
+        "input": "",
+        "output": "Les Colons de Catan Extensions 5-6 Joueurs"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Full Métal Planète"
+    },
+    {
+        "instruction": "Quel jeu de Conquête pour 3 joueurs ?",
+        "input": "",
+        "output": "Full Métal Planète"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Full Métal Planète"
+    },
+    {
+        "instruction": "Quel jeu de Course pour 6 joueurs ?",
+        "input": "",
+        "output": "Formule Dé"
+    },
+    {
+        "instruction": "Quel jeu de Simulation pour 5 joueurs ?",
+        "input": "",
+        "output": "Formule Dé"
+    },
+    {
+        "instruction": "Quel jeu de Simulation pour 8 joueurs ?",
+        "input": "",
+        "output": "Formule Dé"
+    },
+    {
+        "instruction": "Quel jeu de Diplomatie pour 7 joueurs ?",
+        "input": "",
+        "output": "Diplomacy"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Diplomacy"
+    },
+    {
+        "instruction": "Quel jeu de Diplomatie pour 3 joueurs ?",
+        "input": "",
+        "output": "Diplomacy"
+    },
+    {
+        "instruction": "Quel jeu de Coopératif pour 4 joueurs ?",
+        "input": "",
+        "output": "La Fureur Dracula"
+    },
+    {
+        "instruction": "Quel jeu de Enquête pour 2 joueurs ?",
+        "input": "",
+        "output": "La Fureur Dracula"
+    },
+    {
+        "instruction": "Quel jeu de Coopératif pour 3 joueurs ?",
+        "input": "",
+        "output": "La Fureur Dracula"
+    },
+    {
+        "instruction": "Quel jeu de Duel pour 4 joueurs ?",
+        "input": "",
+        "output": "First Blood"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "First Blood"
+    },
+    {
+        "instruction": "Quel jeu de Duel pour 2 joueurs ?",
+        "input": "",
+        "output": "First Blood"
+    },
+    {
+        "instruction": "Quel jeu de Aventure pour 4 joueurs ?",
+        "input": "",
+        "output": "Batson"
+    },
+    {
+        "instruction": "Quel jeu de Exploration pour 3 joueurs ?",
+        "input": "",
+        "output": "Batson"
+    },
+    {
+        "instruction": "Quel jeu de Aventure pour 2 joueurs ?",
+        "input": "",
+        "output": "Batson"
+    },
+    {
+        "instruction": "Quel jeu de Diplomatie pour 6 joueurs ?",
+        "input": "",
+        "output": "Pax Britannica"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Pax Britannica"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Pax Britannica"
+    },
+    {
+        "instruction": "Quel jeu de Famille pour 4 joueurs ?",
+        "input": "",
+        "output": "Golf Strike"
+    },
+    {
+        "instruction": "Quel jeu de Jeu d’adresse pour 2 joueurs ?",
+        "input": "",
+        "output": "Golf Strike"
+    },
+    {
+        "instruction": "Quel jeu de Jeu d’adresse pour 3 joueurs ?",
+        "input": "",
+        "output": "Golf Strike"
+    },
+    {
+        "instruction": "Quel jeu de Chiffres pour 2 joueurs ?",
+        "input": "",
+        "output": "Rummikub"
+    },
+    {
+        "instruction": "Quel jeu de Famille pour 3 joueurs ?",
+        "input": "",
+        "output": "Rummikub"
+    },
+    {
+        "instruction": "Quel jeu de Famille pour 4 joueurs ?",
+        "input": "",
+        "output": "Rummikub"
+    },
+    {
+        "instruction": "Quel jeu de Coopératif pour 6 joueurs ?",
+        "input": "",
+        "output": "Scotland Yard"
+    },
+    {
+        "instruction": "Quel jeu de Enquête pour 5 joueurs ?",
+        "input": "",
+        "output": "Scotland Yard"
+    },
+    {
+        "instruction": "Quel jeu de Enquête pour 3 joueurs ?",
+        "input": "",
+        "output": "Scotland Yard"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Power"
+    },
+    {
+        "instruction": "Quel jeu de Conquête pour 4 joueurs ?",
+        "input": "",
+        "output": "Power"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Power"
+    },
+    {
+        "instruction": "Quel jeu de Ambiance pour 4 joueurs ?",
+        "input": "",
+        "output": "Triangle du Diable"
+    },
+    {
+        "instruction": "Quel jeu de Enquête pour 3 joueurs ?",
+        "input": "",
+        "output": "Triangle du Diable"
+    },
+    {
+        "instruction": "Quel jeu de Ambiance pour 2 joueurs ?",
+        "input": "",
+        "output": "Triangle du Diable"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Napoléon à Leipzig"
+    },
+    {
+        "instruction": "Quel jeu de Guerre pour 4 joueurs ?",
+        "input": "",
+        "output": "Napoléon à Leipzig"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Napoléon à Leipzig"
+    },
+    {
+        "instruction": "Quel jeu de Plateau pour 5 joueurs ?",
+        "input": "",
+        "output": "Cartagena"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Cartagena"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Cartagena"
+    },
+    {
+        "instruction": "Quel jeu de Conquête pour 4 joueurs ?",
+        "input": "",
+        "output": "Agora"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Agora"
+    },
+    {
+        "instruction": "Quel jeu de Conquête pour 3 joueurs ?",
+        "input": "",
+        "output": "Agora"
+    },
+    {
+        "instruction": "Quel jeu de Guerre pour 2 joueurs ?",
+        "input": "",
+        "output": "The Great Battles of Alexander"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "The Great Battles of Alexander"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "The Great Battles of Alexander"
+    },
+    {
+        "instruction": "Quel jeu de Lettres pour 4 joueurs ?",
+        "input": "",
+        "output": "Jarnac!"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 3 joueurs ?",
+        "input": "",
+        "output": "Jarnac!"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 2 joueurs ?",
+        "input": "",
+        "output": "Jarnac!"
+    },
+    {
+        "instruction": "Quel jeu de Famille pour 3 joueurs ?",
+        "input": "",
+        "output": "Pyramide"
+    },
+    {
+        "instruction": "Quel jeu de Hasard pour 4 joueurs ?",
+        "input": "",
+        "output": "Pyramide"
+    },
+    {
+        "instruction": "Quel jeu de Hasard pour 2 joueurs ?",
+        "input": "",
+        "output": "Pyramide"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 3 joueurs ?",
+        "input": "",
+        "output": "Kartenspiel"
+    },
+    {
+        "instruction": "Quel jeu de Famille pour 2 joueurs ?",
+        "input": "",
+        "output": "Kartenspiel"
+    },
+    {
+        "instruction": "Quel jeu de Famille pour 4 joueurs ?",
+        "input": "",
+        "output": "Kartenspiel"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Kremlin"
+    },
+    {
+        "instruction": "Quel jeu de Diplomatie pour 4 joueurs ?",
+        "input": "",
+        "output": "Kremlin"
+    },
+    {
+        "instruction": "Quel jeu de Diplomatie pour 4 joueurs ?",
+        "input": "",
+        "output": "Kremlin"
+    },
+    {
+        "instruction": "Quel jeu de Guerre pour 2 joueurs ?",
+        "input": "",
+        "output": "Russian Front"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Russian Front"
+    },
+    {
+        "instruction": "Quel jeu de Guerre pour 4 joueurs ?",
+        "input": "",
+        "output": "Russian Front"
+    },
+    {
+        "instruction": "Quel jeu de Guerre pour 3 joueurs ?",
+        "input": "",
+        "output": "Austerlitz"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Austerlitz"
+    },
+    {
+        "instruction": "Quel jeu de Guerre pour 2 joueurs ?",
+        "input": "",
+        "output": "Austerlitz"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Days of Decision"
+    },
+    {
+        "instruction": "Quel jeu de Politique pour 2 joueurs ?",
+        "input": "",
+        "output": "Days of Decision"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Days of Decision"
+    },
+    {
+        "instruction": "Quel jeu de Coopératif pour 4 joueurs ?",
+        "input": "",
+        "output": "Horreur à Arkham"
+    },
+    {
+        "instruction": "Quel jeu de Horreur pour 1 joueurs ?",
+        "input": "",
+        "output": "Horreur à Arkham"
+    },
+    {
+        "instruction": "Quel jeu de Horreur pour 2 joueurs ?",
+        "input": "",
+        "output": "Horreur à Arkham"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Armada"
+    },
+    {
+        "instruction": "Quel jeu de Exploration pour 2 joueurs ?",
+        "input": "",
+        "output": "Armada"
+    },
+    {
+        "instruction": "Quel jeu de Exploration pour 4 joueurs ?",
+        "input": "",
+        "output": "Armada"
+    },
+    {
+        "instruction": "Quel jeu de Guerre pour 3 joueurs ?",
+        "input": "",
+        "output": "World in Flames"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "World in Flames"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 6 joueurs ?",
+        "input": "",
+        "output": "World in Flames"
+    },
+    {
+        "instruction": "Quel jeu de Simulation pour 5 joueurs ?",
+        "input": "",
+        "output": "World in Flames The Final Edition"
+    },
+    {
+        "instruction": "Quel jeu de Guerre pour 2 joueurs ?",
+        "input": "",
+        "output": "World in Flames The Final Edition"
+    },
+    {
+        "instruction": "Quel jeu de Simulation pour 6 joueurs ?",
+        "input": "",
+        "output": "World in Flames The Final Edition"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 3 joueurs ?",
+        "input": "",
+        "output": "Hacker"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Hacker"
+    },
+    {
+        "instruction": "Quel jeu de Bluff pour 4 joueurs ?",
+        "input": "",
+        "output": "Hacker"
+    },
+    {
+        "instruction": "Quel jeu de Gestion économique pour 2 joueurs ?",
+        "input": "",
+        "output": 1830
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": 1830
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 5 joueurs ?",
+        "input": "",
+        "output": 1830
+    },
+    {
+        "instruction": "Quel jeu de Guerre pour 6 joueurs ?",
+        "input": "",
+        "output": "Empires in Arms"
+    },
+    {
+        "instruction": "Quel jeu de Diplomatie pour 2 joueurs ?",
+        "input": "",
+        "output": "Empires in Arms"
+    },
+    {
+        "instruction": "Quel jeu de Diplomatie pour 5 joueurs ?",
+        "input": "",
+        "output": "Empires in Arms"
+    },
+    {
+        "instruction": "Quel jeu de Simulation pour 3 joueurs ?",
+        "input": "",
+        "output": "Turning Point: Stalingrad"
+    },
+    {
+        "instruction": "Quel jeu de Guerre pour 5 joueurs ?",
+        "input": "",
+        "output": "Turning Point: Stalingrad"
+    },
+    {
+        "instruction": "Quel jeu de Guerre pour 2 joueurs ?",
+        "input": "",
+        "output": "Turning Point: Stalingrad"
+    },
+    {
+        "instruction": "Quel jeu de Guerre pour 3 joueurs ?",
+        "input": "",
+        "output": "Air Bridge to Victory"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Air Bridge to Victory"
+    },
+    {
+        "instruction": "Quel jeu de Guerre pour 4 joueurs ?",
+        "input": "",
+        "output": "Air Bridge to Victory"
+    },
+    {
+        "instruction": "Quel jeu de Guerre navale pour 2 joueurs ?",
+        "input": "",
+        "output": "2nd Fleet"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "2nd Fleet"
+    },
+    {
+        "instruction": "Quel jeu de Guerre navale pour 4 joueurs ?",
+        "input": "",
+        "output": "2nd Fleet"
+    },
+    {
+        "instruction": "Quel jeu de Simulation pour 3 joueurs ?",
+        "input": "",
+        "output": "Leather Neck"
+    },
+    {
+        "instruction": "Quel jeu de Guerre pour 4 joueurs ?",
+        "input": "",
+        "output": "Leather Neck"
+    },
+    {
+        "instruction": "Quel jeu de Guerre pour 2 joueurs ?",
+        "input": "",
+        "output": "Leather Neck"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Battle Hymn"
+    },
+    {
+        "instruction": "Quel jeu de Guerre pour 3 joueurs ?",
+        "input": "",
+        "output": "Battle Hymn"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Battle Hymn"
+    },
+    {
+        "instruction": "Quel jeu de Réflexes pour 3 joueurs ?",
+        "input": "",
+        "output": "Simon"
+    },
+    {
+        "instruction": "Quel jeu de Mémoire pour 1 joueurs ?",
+        "input": "",
+        "output": "Simon"
+    },
+    {
+        "instruction": "Quel jeu de Mémoire pour 6 joueurs ?",
+        "input": "",
+        "output": "Simon"
+    },
+    {
+        "instruction": "Quel jeu de Guerre pour 5 joueurs ?",
+        "input": "",
+        "output": "Croisades"
+    },
+    {
+        "instruction": "Quel jeu de Conquête pour 4 joueurs ?",
+        "input": "",
+        "output": "Croisades"
+    },
+    {
+        "instruction": "Quel jeu de Guerre pour 2 joueurs ?",
+        "input": "",
+        "output": "Croisades"
+    },
+    {
+        "instruction": "Quel jeu de Guerre pour 4 joueurs ?",
+        "input": "",
+        "output": "Kharkov"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Kharkov"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Kharkov"
+    },
+    {
+        "instruction": "Quel jeu de Conquête pour 2 joueurs ?",
+        "input": "",
+        "output": "History of the World"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "History of the World"
+    },
+    {
+        "instruction": "Quel jeu de Conquête pour 6 joueurs ?",
+        "input": "",
+        "output": "History of the World"
+    },
+    {
+        "instruction": "Quel jeu de Diplomatie pour 3 joueurs ?",
+        "input": "",
+        "output": "Fief 2"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Fief 2"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 5 joueurs ?",
+        "input": "",
+        "output": "Fief 2"
+    },
+    {
+        "instruction": "Quel jeu de Guerre aérienne pour 2 joueurs ?",
+        "input": "",
+        "output": "Mustangs"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Mustangs"
+    },
+    {
+        "instruction": "Quel jeu de Guerre aérienne pour 4 joueurs ?",
+        "input": "",
+        "output": "Mustangs"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 2 joueurs ?",
+        "input": "",
+        "output": "Risk"
+    },
+    {
+        "instruction": "Quel jeu de Conquête pour 5 joueurs ?",
+        "input": "",
+        "output": "Risk"
+    },
+    {
+        "instruction": "Quel jeu de Conquête pour 3 joueurs ?",
+        "input": "",
+        "output": "Risk"
+    },
+    {
+        "instruction": "Quel jeu de Abstrait pour 3 joueurs ?",
+        "input": "",
+        "output": "Ewele"
+    },
+    {
+        "instruction": "Quel jeu de Traditionnel pour 4 joueurs ?",
+        "input": "",
+        "output": "Ewele"
+    },
+    {
+        "instruction": "Quel jeu de Traditionnel pour 2 joueurs ?",
+        "input": "",
+        "output": "Ewele"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 4 joueurs ?",
+        "input": "",
+        "output": "Leningrad"
+    },
+    {
+        "instruction": "Quel jeu de Guerre pour 2 joueurs ?",
+        "input": "",
+        "output": "Leningrad"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Leningrad"
+    },
+    {
+        "instruction": "Quel jeu de Stratégie pour 3 joueurs ?",
+        "input": "",
+        "output": "Anima"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 2 joueurs ?",
+        "input": "",
+        "output": "Anima"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 4 joueurs ?",
+        "input": "",
+        "output": "Anima"
+    },
+    {
+        "instruction": "Quel jeu de Duel pour 4 joueurs ?",
+        "input": "",
+        "output": "Magic: The Gathering"
+    },
+    {
+        "instruction": "Quel jeu de Cartes pour 5 joueurs ?",
+        "input": "",
+        "output": "Magic: The Gathering"
+    },
+    {
+        "instruction": "Quel jeu de Duel pour 3 joueurs ?",
+        "input": "",
+        "output": "Magic: The Gathering"
+    }
+]
